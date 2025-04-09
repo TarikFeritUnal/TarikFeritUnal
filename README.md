@@ -64,11 +64,10 @@ Software Engineering Student | Web & Game Development | Java & C#
 ---
 
 ### 📬 Contact Me
+
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tarikferitunal@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/tarık-ferit-ünal-243s)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@varix6889) 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tarık-ferit-ünal-243s)
 
 ---
 
