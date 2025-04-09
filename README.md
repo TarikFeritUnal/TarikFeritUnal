@@ -42,6 +42,7 @@ Software Engineering Student | Web & Game Development | Java & C#
   <img src="https://github-profile-trophy.vercel.app/?username=TarikFeritUnal&theme=gruvbox&margin-w=15" />
 </p>
 
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -70,3 +71,8 @@ Software Engineering Student | Web & Game Development | Java & C#
 <p align="center">
   I learn as I code, and I try to share what I learn.
 </p>
+
+
+![snake gif](https://github.com/TarikFeritUnal/TarikFeritUnal/blob/output/github-contribution-grid-snake.gif)
+
+
