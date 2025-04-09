@@ -36,6 +36,14 @@ Software Engineering Student | Web & Game Development | Java & C#
 
 ---
 
+### 🔥 GitHub Contribution Snake
+
+<!-- Snake animation requires GitHub Actions setup -->
+<p align="center">
+  <img src="https://github.com/TarikFeritUnal/TarikFeritUnal/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
 ### 🏆 GitHub Trophy
 
 <p align="center">
@@ -72,7 +80,5 @@ Software Engineering Student | Web & Game Development | Java & C#
   I learn as I code, and I try to share what I learn.
 </p>
 
-
-![snake gif](https://github.com/TarikFeritUnal/TarikFeritUnal/blob/output/github-contribution-grid-snake.gif)
 
 
