@@ -15,7 +15,7 @@ jobs:
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
-          github_user_name: Halil-Dev
+          github_user_name: TarikFeritUnal
           outputs: |
             dist/github-contribution-grid-snake.svg
 
