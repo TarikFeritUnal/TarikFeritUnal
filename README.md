@@ -1,4 +1,5 @@
-![.](https://i.hizliresim.com/kpec3fr.png)
+![-](https://github.com/TarikFeritUnal/assets/blob/main/TARIK%20FER%C4%B0T%20%C3%9CNAL%20%5BEN%5D.png?raw=true)
+
 
 <h1 align="center">Hello, I'm Tarık 👋</h1>
 
