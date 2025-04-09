@@ -1,4 +1,5 @@
-![-](https://github.com/TarikFeritUnal/assets/blob/main/TARIK%20FER%C4%B0T%20%C3%9CNAL%20%5BEN%5D.png?raw=true)
+<img src="https://github.com/TarikFeritUnal/assets/blob/main/TARIK%20FER%C4%B0T%20%C3%9CNAL%20%5BEN%5D.png?raw=true" width="100%"/>
+
 
 
 <h1 align="center">Hello, I'm Tarık 👋</h1>
@@ -77,7 +78,7 @@ Software Engineering Student | Web & Game Development | Java & C#
 </p>
 
 <p align="center">
-  I learn as I code, and I try to share what I learn.
+  "I learn as I code, and I try to share what I learn."
 </p>
 
 
