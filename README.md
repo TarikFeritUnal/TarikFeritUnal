@@ -1,26 +1,67 @@
-[![MasterHead](https://i.hizliresim.com/ebc0t3i.png?_gl=1*19qkf57*_ga*NzMwNzI3Nzk0LjE3NDQyMTAyMjY.*_ga_M9ZRXYS2YN*MTc0NDIxMDIyNi4xLjEuMTc0NDIxMDI1MS4zNS4wLjA.)
-<h1 align="center">Hi 👋, I'm Tarık Ferit Ünal</h1>
-<h3 align="center">MAKU UNI | Software Engineering 2024-2028</h3>
+<h1 align="center">Merhaba, ben Tarık 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarikferitunal&label=Profile%20views&color=0e75b6&style=flat" alt="tarikferitunal" /> </p>
-
-- 🌱 I’m currently learning **JAVA|C#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/TarikFeritUnal](https://github.com/TarikFeritUnal)
-
-- 📫 How to reach me **tarikferitunal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/tarikferi̇tünal243s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarikferi̇tünal243s" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vai̇x6889" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vai̇x6889" height="30" width="40" /></a>
+<p align="center">
+  Yazılım Mühendisliği öğrencisi | Kod yazmayı, oyun oynamayı ve yeni şeyler öğrenmeyi severim.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarikferitunal&show_icons=true&locale=en&layout=compact" alt="tarikferitunal" /></p>
+### 💻 Hakkımda
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tarikferitunal&show_icons=true&locale=en" alt="tarikferitunal" /></p>
+Ben Tarık. Mehmet Akif Ersoy Üniversitesi'nde Yazılım Mühendisliği 1. sınıf öğrencisiyim. Java ve Python üzerine yoğunlaşıyorum. GitHub'ı daha aktif kullanmak, projelerimi burada sergilemek istiyorum. Şimdilik küçük şeylerle başlıyorum ama zamanla daha büyük işler çıkarmayı hedefliyorum.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarikferitunal&" alt="tarikferitunal" /></p>
+### 🛠️ Kullandığım Araçlar & Diller
+
+- 💻 Diller: Java, Python, HTML, CSS
+- 🛠️ IDE’ler: VS Code, IntelliJ IDEA
+- 🔧 Araçlar: Git, GitHub
+- 🌱 Şu an öğreniyorum: React, Spring Boot, Git akışları
+
+---
+
+### 🎮 İlgi Alanlarım
+
+- Yarış oyunları — özellikle Need for Speed ve Forza Horizon 🚗💨
+- Araç modifiyesi, tasarım ve estetik detaylara kafa yormayı severim
+- Oyun dışında müzik, film ve teknoloji gündemini takip ederim
+
+---
+
+### 🏆 GitHub Trophy
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TarikFeritUnal&theme=gruvbox&margin-w=15" />
+</p>
+
+
+### 📈 GitHub İstatistikleri
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TarikFeritUnal&show_icons=true&theme=radical" alt="Tarık'ın GitHub İstatistikleri" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikFeritUnal&layout=compact&theme=radical" alt="Tarık'ın En Çok Kullandığı Diller" />
+</p>
+
+---
+
+<h3>📬 Bana Ulaşın</h3>
+<div>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Gmail_Logo_2020.png" alt="Gmail" width="40" height="40">
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="https://www.youtube.com/c/your-youtube-channel">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40">
+  </a>
+</div>
+
+
+---
+
+<p align="center">
+  Kodladıkça öğreniyorum, öğrendikçe paylaşmaya çalışıyorum.
+</p>
