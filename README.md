@@ -1,3 +1,5 @@
+![.](https://i.hizliresim.com/kpec3fr.png)
+
 <h1 align="center">Merhaba, ben Tarık 👋</h1>
 
 <p align="center">
@@ -8,15 +10,20 @@
 
 ### 💻 Hakkımda
 
-Ben Tarık. Mehmet Akif Ersoy Üniversitesi'nde Yazılım Mühendisliği 1. sınıf öğrencisiyim. Java ve Python üzerine yoğunlaşıyorum. GitHub'ı daha aktif kullanmak, projelerimi burada sergilemek istiyorum. Şimdilik küçük şeylerle başlıyorum ama zamanla daha büyük işler çıkarmayı hedefliyorum.
+Software Engineering Student | Web & Game Development | Java & C#
 
-### 🛠️ Kullandığım Araçlar & Diller
+👋 Hello! I'm Tarık Ferit, a Software Engineering student at Mehmet Akif Ersoy University. I really enjoy writing code, discovering new technologies, and developing projects. I am especially focused on Java and C# and continue to improve my skills in these languages. 🚀
 
-- 💻 Diller: Java, Python, HTML, CSS
-- 🛠️ IDE’ler: VS Code, IntelliJ IDEA
-- 🔧 Araçlar: Git, GitHub
-- 🌱 Şu an öğreniyorum: React, Spring Boot, Git akışları
+What Am I Doing? 🤔
+Web Development 🌐: I am developing applications using Java on the backend, creating strong and scalable systems. I am gaining experience in RESTful APIs and database management. 🖥️💻
 
+Game Development 🎮: I am working on game engines, creating projects on game mechanics, user interactions, and artificial intelligence integrations. 👾🕹️
+
+Artificial Intelligence 🤖: I am developing projects on algorithms and data analysis, working on problem-solving techniques. 🧠💡
+
+Automotive Industry 🚗: I am researching vehicle software and autonomous systems and keeping up with the technologies in this field. 🛠️🔧
+
+When writing code, it's not just about creating things; learning 📚 and discovering 🌍 are among my most important motivations. If we share common interests, let's connect 🔗 and exchange ideas 💬!
 ---
 
 ### 🎮 İlgi Alanlarım
@@ -59,9 +66,13 @@ Ben Tarık. Mehmet Akif Ersoy Üniversitesi'nde Yazılım Mühendisliği 1. sın
   </a>
 </div>
 
-
 ---
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TarikFeritUnal&label=Ziyaretçi&color=blue&style=flat-square" alt="visitor badge"/>
+</p>
+
 
 <p align="center">
   Kodladıkça öğreniyorum, öğrendikçe paylaşmaya çalışıyorum.
 </p>
+
