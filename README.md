@@ -1,6 +1,6 @@
 ![.](https://i.hizliresim.com/kpec3fr.png)
 
-# Hello, I'm Tarık 👋
+<h1 align="center">Hello, I'm Tarık 👋</h1>
 
 <p align="center">
   Software Engineering Student | I love coding, playing games, and learning new things.
@@ -14,8 +14,7 @@ Software Engineering Student | Web & Game Development | Java & C#
 
 👋 Hello! I'm **Tarık Ferit**, a **Software Engineering** student at **Mehmet Akif Ersoy University**. I really enjoy writing code, discovering new technologies, and developing projects. I am especially focused on **Java** and **C#** and continue to improve my skills in these languages. 🚀
 
-What Am I Doing? 🤔
-
+### What Am I Doing? 🤔
 - **Web Development** 🌐: I am developing applications using **Java** on the backend, creating strong and scalable systems. I am gaining experience in **RESTful APIs** and **database management**. 🖥️💻
 
 - **Game Development** 🎮: I am working on game engines, creating projects on **game mechanics**, **user interactions**, and **artificial intelligence** integrations. 👾🕹️
@@ -24,7 +23,9 @@ What Am I Doing? 🤔
 
 - **Automotive Industry** 🚗: I am researching **vehicle software** and **autonomous systems** and keeping up with the technologies in this field. 🛠️🔧
 
-When writing code, it's not just about creating things; **learning** 📚 and **discovering** 🌍 are among my most important motivations. If we share common interests, let's **connect** 🔗 and **exchange ideas** 💬!
+**When writing code, it's not just about creating things;**  
+**learning** 📚 and **discovering** 🌍 are among my most important motivations.  
+**If we share common interests, let's connect** 🔗 and **exchange ideas** 💬!
 
 ---
 
@@ -55,17 +56,12 @@ When writing code, it's not just about creating things; **learning** 📚 and **
 ---
 
 ### 📬 Contact Me
-<div>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Gmail_Logo_2020.png" alt="Gmail" width="40" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="40" height="40">
-  </a>
-  <a href="https://www.youtube.com/c/your-youtube-channel">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/YouTube_icon_%282013-2017%29.png" alt="YouTube" width="40" height="40">
-  </a>
-</div>
+[![Mail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your@email.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/your_username) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/your_username)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@IsiksTech) 
+
+
 
 ---
 
