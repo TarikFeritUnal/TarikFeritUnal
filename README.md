@@ -46,12 +46,6 @@ Software Engineering Student | Web & Game Development | Java & C#
 </p>
 
 
-### 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TarikFeritUnal&theme=gruvbox&margin-w=15" />
-</p>
-
 
 ### 📈 GitHub Stats
 
