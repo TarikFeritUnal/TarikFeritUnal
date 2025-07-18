@@ -38,12 +38,6 @@ Software Engineering Student | Web & Game Development | Java & C#
 
 ---
 
-### 🔥 GitHub Contribution Snake
-
-<!-- Snake animation requires GitHub Actions setup -->
-<p align="center">
-  <img src="https://github.com/TarikFeritUnal/TarikFeritUnal/blob/output/github-contribution-grid-snake.svg" />
-</p>
 
 
 
