@@ -31,13 +31,6 @@ Software Engineering Student | Web & Game Development | Java & C#
 
 ---
 
-### 🎮 My Interests
-
-- Racing games — especially **Need for Speed** and **Forza Horizon** 🚗💨
-- Outside of gaming, I follow **music**, **movies**, and **technology news**
-
----
-
 
 
 
