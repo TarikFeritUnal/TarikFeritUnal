@@ -31,21 +31,6 @@ Software Engineering Student | Web & Game Development | Java & C#
 
 ---
 
-
-
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TarikFeritUnal&show_icons=true&theme=radical" alt="Tarık's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikFeritUnal&layout=compact&theme=radical" alt="Tarık's Most Used Languages" />
-</p>
-
----
-
 ### 📬 Contact Me
 
 [![Mail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tarikferitunal@gmail.com)  
