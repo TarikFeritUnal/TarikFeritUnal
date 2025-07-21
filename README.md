@@ -12,9 +12,9 @@
 
 ### 💻 About Me
 
-Software Engineering Student | Web & Game Development | Java & C#
+Software Engineering Student | Web & Game Development | Java & 
 
-👋 Hello! I'm **Tarık Ferit**, a **Software Engineering** student at **Mehmet Akif Ersoy University**. I really enjoy writing code, discovering new technologies, and developing projects. I am especially focused on **Java** and **C#** and continue to improve my skills in these languages. 🚀
+👋 Hello! I'm **Tarık Ferit**, a **Software Engineering** student at **Mehmet Akif Ersoy University**. I really enjoy writing code, discovering new technologies, and developing projects. I am especially focused on **Java** and continue to improve my skills in language. 🚀
 
 ### What Am I Doing? 🤔
 - **Web Development** 🌐: I am developing applications using **Java** on the backend, creating strong and scalable systems. I am gaining experience in **RESTful APIs** and **database management**. 🖥️💻
