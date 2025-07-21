@@ -30,6 +30,14 @@ Software Engineering Student | Web & Game Development | Java & C#
 **If we share common interests, let's connect** 🔗 and **exchange ideas** 💬!
 
 ---
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=TarikFeritUnal&show_icons=true&theme=radical" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikFeritUnal&layout=compact&theme=radical" />
+</p>
+
+---
 
 ### 📬 Contact Me
 
