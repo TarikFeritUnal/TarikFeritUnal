@@ -33,8 +33,8 @@ Software Engineering Student | Web & Game Development | Java & C#
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=TarikFeritUnal&show_icons=true&theme=radical" />
-  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikFeritUnal&layout=compact&theme=radical" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=TarikFeritUnal&theme=blueberry&show_icons=true&hide_border=true&count_private=true" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TarikFeritUnal&theme=blueberry&show_icons=true&hide_border=true&layout=compact" />
 </p>
 
 ---
