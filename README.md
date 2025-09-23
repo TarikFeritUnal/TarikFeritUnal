@@ -5,29 +5,38 @@
 <h1 align="center">Hello, I'm Tarık 👋</h1>
 
 <p align="center">
-  Software Engineering Student | I love coding, playing games, and learning new things.
+  Software Engineering Student | Mehmet Akif Ersoy University | I love coding and learning new things.
 </p>
 
 ---
 
 ### 💻 About Me
+I'm a 2nd year Software Engineering student at Mehmet Akif Ersoy University.  
+Currently, I am learning **Java**, **HTML**, and **CSS**, focusing on web design and software development.
+I am building and sharing projects as part of my learning journey.  
+You can explore them in my repositories.  
 
-Software Engineering Student | Web & Game Development | Java
+---
 
-👋 Hello! I'm **Tarık Ferit**, a **Software Engineering** student at **Mehmet Akif Ersoy University**. I really enjoy writing code, discovering new technologies, and developing projects. I am especially focused on **Java** and continue to improve my skills in language. 🚀
+## ⚙️​ Technologies I Use
 
-### What Am I Doing? 🤔
-- **Web Development** 🌐: I am developing applications using **Java** on the backend, creating strong and scalable systems. I am gaining experience in **RESTful APIs** and **database management**. 🖥️💻
-
-- **Game Development** 🎮: I am working on game engines, creating projects on **game mechanics**, **user interactions**, and **artificial intelligence** integrations. 👾🕹️
-
-- **Artificial Intelligence** 🤖: I am developing projects on **algorithms** and **data analysis**, working on **problem-solving techniques**. 🧠💡
-
-- **Automotive Industry** 🚗: I am researching **vehicle software** and **autonomous systems** and keeping up with the technologies in this field. 🛠️🔧
-
-**When writing code, it's not just about creating things;**  
-**learning** 📚 and **discovering** 🌍 are among my most important motivations.  
-**If we share common interests, let's connect** 🔗 and **exchange ideas** 💬!
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+</div>
 
 ---
 ### 📈 GitHub Stats
