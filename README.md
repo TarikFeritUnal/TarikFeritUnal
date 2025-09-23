@@ -13,7 +13,7 @@
 ### 💻 About Me
 I'm a 2nd year Software Engineering student at Mehmet Akif Ersoy University.  
 Currently, I am learning **Java**, **HTML**, and **CSS**, focusing on web design and software development.
-I am building and sharing projects as part of my learning journey.  
+<br>I am building and sharing projects as part of my learning journey.  
 You can explore them in my repositories.  
 
 ---
